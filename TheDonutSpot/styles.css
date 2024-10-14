@@ -1,0 +1,17 @@
+body {background-color: #ffebef;}
+h5{color: #d3657a; }
+.card-color h5 {
+    color: #d3657a;
+}
+
+.card-color {
+    background-color: #ffebef;
+    border: none;
+}
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
