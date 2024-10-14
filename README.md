@@ -1,6 +1,6 @@
 # The Donut Spot
 
-![Logo](./imagenes/Logo.png)
+![Logo](./imagenes/Nombre.png)
 
 ## Descripción
 
