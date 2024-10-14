@@ -19,4 +19,4 @@ Para ver este proyecto en tu entorno local, sigue estos pasos:
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/amjimenezg1/Taller1SW.git
